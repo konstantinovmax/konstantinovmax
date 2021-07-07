@@ -4,7 +4,7 @@
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=konstantinovmax)
+![Profile views](https://gpvc.arturio.dev/konstantinovmax) 
 
 <!--
 **konstantinovmax/konstantinovmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
