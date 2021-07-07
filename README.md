@@ -2,6 +2,10 @@
 #### My name is Maxim and i'm Frontend Developer from Saint-Petersburg, Russia.
 #### My stack: HTML, CSS, JS, React.js, Node.js.
 
+---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=konstantinovmax)
+
 <!--
 **konstantinovmax/konstantinovmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
