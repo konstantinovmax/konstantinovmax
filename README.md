@@ -1,6 +1,6 @@
-### Hi there 👋
-My name is Maxim and i'm Frontend Developer from Saint-Petersburg, Russia.
-#### Skills: HTML, CSS, JavaScript (ES6), React.js, Node.js, Webpack, Sass/SCSS, Git
+### Hey, I'm Maxim!
+I'm Frontend Developer from Saint-Petersburg, Russia.
+Skills: HTML / CSS / JavaScript (ES6) / React.js / Node.js / Webpack / SCSS / Git
 
 ---
 
