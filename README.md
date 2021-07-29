@@ -2,9 +2,7 @@
 I'm Frontend Developer from Saint-Petersburg, Russia.
 
 #### Skills
-![HTML](https://img.shields.io/badge/-HTML-303030?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-303030?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-303030?style=for-the-badge&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-303030?style=for-the-badge&logo=TypeScript) ![ReactJs](https://img.shields.io/badge/-React.js-303030?style=for-the-badge&logo=React) ![Node.js](https://img.shields.io/badge/-Node.JS-303030?style=for-the-badge&logo=Node.js)
-
-![Webpack](https://img.shields.io/badge/-webpack-303030?style=for-the-badge&logo=webpack) ![Scss](https://img.shields.io/badge/-Scss-303030?style=for-the-badge&logo=sass) ![BEM](https://img.shields.io/badge/-BEM-303030?style=for-the-badge&logo=bem) ![Git](https://img.shields.io/badge/-git-303030?style=for-the-badge&logo=Git)
+![HTML](https://img.shields.io/badge/-HTML-303030?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-303030?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-303030?style=for-the-badge&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-303030?style=for-the-badge&logo=TypeScript) ![ReactJs](https://img.shields.io/badge/-React.js-303030?style=for-the-badge&logo=React) ![Node.js](https://img.shields.io/badge/-Node.JS-303030?style=for-the-badge&logo=Node.js) ![Webpack](https://img.shields.io/badge/-webpack-303030?style=for-the-badge&logo=webpack) ![Scss](https://img.shields.io/badge/-Scss-303030?style=for-the-badge&logo=sass) ![BEM](https://img.shields.io/badge/-BEM-303030?style=for-the-badge&logo=bem) ![Git](https://img.shields.io/badge/-git-303030?style=for-the-badge&logo=Git)
 
 ---
 
