@@ -1,4 +1,4 @@
-## Hey, i'm Maxim!
+## Hey, i'm Maxim
 I'm a Frontend Developer from Saint-Petersburg, Russia.
 
 ### Tech Stack:
